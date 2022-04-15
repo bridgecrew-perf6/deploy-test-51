@@ -1,7 +1,7 @@
 <template>
 <nav class="bg-blue-800 border-gray-200 px-2 sm:px-4 py-2.5 mb-3">
   <div class="container flex flex-wrap justify-between items-center mx-auto">
-      <span class="self-center text-xl font-semibold whitespace-nowrap text-white">News Apps</span>
+      <span class="self-center text-xl font-semibold whitespace-nowrap text-white">Film Apps</span>
   <div class="flex md:order-2">
       <div class="hidden relative mr-3 md:mr-0 md:block">
         <div class="flex absolute inset-y-0 left-0 items-center pl-3 pointer-events-none">
